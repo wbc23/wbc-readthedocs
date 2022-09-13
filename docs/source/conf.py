@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'recommonmark',
-    'sphinx_markdown_tables-0.0.17',
 ]
 
 intersphinx_mapping = {
