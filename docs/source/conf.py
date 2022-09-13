@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = '课程名称'
-copyright = '2021, Graziella'
+project = '2022操作系统课程(秋)'
+copyright = '2021, Wbc'
 author = 'Wbc'
 
 release = '0.1'
