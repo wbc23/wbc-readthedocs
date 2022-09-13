@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = '课程名称'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Wbc'
 
 release = '0.1'
 version = '0.1.0'
